@@ -1,0 +1,69 @@
+{
+    "post": [
+        {
+            "title": "The Importance of Mental Health Awareness",
+            "description": "Mental health is an integral part of our overall well-being. It affects how we think, feel, and act, influencing our ability to handle stress, relate to others, and make choices. Unfortunately, mental health issues are often stigmatized, leading many people to suffer in silence. By raising awareness and promoting open conversations, we can create a supportive environment where individuals feel comfortable seeking help. This blog explores the significance of mental health awareness and offers practical tips for maintaining mental well-being.",
+            "author": {
+                "role": "Co-Founder / CTO",
+                "name": "Maryam",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            },
+            "id": 1,
+            "href": "#",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16"
+        },
+        {
+            "title": "The Benefits of Regular Exercise",
+            "description": "Exercise is not only crucial for physical health but also for mental well-being. Regular physical activity can help reduce stress, improve mood, and boost overall energy levels. Additionally, it lowers the risk of chronic diseases such as heart disease, diabetes, and obesity. This blog delves into the various benefits of incorporating regular exercise into your daily routine and provides tips for getting started.",
+            "author": {
+                "role": "Co-Founder / CTO",
+                "name": "John",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            },
+            "id": 2,
+            "href": "#",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16"
+        },
+        {
+            "title": "Healthy Eating: Tips for a Balanced Diet",
+            "description": "A balanced diet is essential for maintaining good health and well-being. It provides the necessary nutrients for our bodies to function correctly. Eating a variety of foods, including fruits, vegetables, lean proteins, and whole grains, can help you achieve a balanced diet. This blog discusses the importance of healthy eating, shares practical tips for maintaining a balanced diet, and suggests delicious and nutritious recipes.",
+            "author": {
+                "role": "Co-Founder / CTO",
+                "name": "Aisha",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            },
+            "id": 3,
+            "href": "#",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16"
+        },
+        {
+            "title": "Effective Time Management Strategies",
+            "description": "Time management is a crucial skill that can help you achieve your goals and reduce stress. By managing your time effectively, you can increase productivity, improve work-life balance, and create more free time for activities you enjoy. This blog explores various time management techniques, such as prioritizing tasks, setting goals, and using tools like calendars and to-do lists to stay organized.",
+            "author": {
+                "role": "Co-Founder / CTO",
+                "name": "David",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            },
+            "id": 4,
+            "href": "#",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16"
+        },
+        {
+            "title": "The Power of Positive Thinking",
+            "description": "Positive thinking can significantly impact your mental and physical health. It can reduce stress, improve mood, and even boost your immune system. Cultivating a positive mindset involves focusing on the good in any situation, practicing gratitude, and surrounding yourself with supportive people. This blog discusses the benefits of positive thinking and provides strategies for developing a more optimistic outlook on life.",
+            "author": {
+                "role": "Co-Founder / CTO",
+                "name": "Fatima",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            },
+            "id": 5,
+            "href": "#",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16"
+        }
+    ]
+}
